@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+html,
+body {
+  @apply h-full w-full m-0 p-0;
+  @apply antialiased;
+}
+
+body {
+  @apply bg-gray-100 text-gray-900;
+}
+
+/* Workspace styles */
+.workspace-canvas {
+  @apply w-full h-full bg-white;
+  @apply cursor-grab active:cursor-grabbing;
+}
