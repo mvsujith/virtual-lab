@@ -91,7 +91,7 @@ Goal: Help manual traders become algo traders in hours, not weeks.
 ---
 
 5) Multi‑Screen Workspace (What I built)
-Live demo: https://virtual-9po63dg12-sujiths-projects-a37dec73.vercel.app  
+Live demo: https://multi-screens.onrender.com/  
 Source: https://github.com/mvsujith/virtual-lab
 
 - Compose 6–8 screen layouts inside the browser (ultrawide + standard monitors).

@@ -24,7 +24,7 @@ const App = () => {
         <div className="flex items-center gap-4">
           <h1 className="text-xl font-semibold">3D Multiple Screens Setup</h1>
           <button
-            className={`px-3 py-1 rounded text-sm ${activeTab === 'doc' ? 'bg-blue-500' : 'bg-blue-600 hover:bg-blue-500'}`}
+            className={`px-3 py-1 rounded text-sm font-medium shadow-sm ring-1 ring-white/10 transition-colors ${activeTab === 'doc' ? 'bg-blue-500' : 'bg-blue-600 hover:bg-blue-500'}`}
             onClick={() => setActiveTab(activeTab === 'doc' ? 'workspace' : 'doc')}
             title="Click to view the submission document"
           >
@@ -52,7 +52,7 @@ const App = () => {
           </div>
         ) : (
           <div className="flex-1 bg-gray-900 text-white">
-            <SubmissionDoc />
+            <SubmissionDoc onClose={() => setActiveTab('workspace')} />
           </div>
         )}
       </div>
