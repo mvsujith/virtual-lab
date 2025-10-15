@@ -36,8 +36,6 @@ Why it matters:
 
 3) Closing
 
-I’m excited about Trade’s focus on options and speed. This submission shows how we can reduce cognitive load for active traders and make the journey from manual → algo natural and fun.
-
 Happy to walk through the demo live and iterate on the feature design.
 
 —
