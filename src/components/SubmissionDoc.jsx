@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import docContent from '../../NUBRA_PRODUCT_INTERNSHIP_SUBMISSION.md?raw';
+import docContent from '../../Trade.md?raw';
 
 export default function SubmissionDoc({ onClose }) {
   return (
     <div className="h-full overflow-auto bg-gray-900">
       <div className="sticky top-0 z-10 backdrop-blur supports-[backdrop-filter]:bg-gray-900/70 bg-gray-900/90 border-b border-gray-800">
         <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
-          <h2 className="text-sm font-medium text-gray-300">Nubra Product Intern — Submission</h2>
+          <h2 className="text-sm font-medium text-gray-300">Trade</h2>
           <button
             type="button"
             onClick={onClose}
