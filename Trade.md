@@ -1,9 +1,7 @@
-Nubra Product Intern — Submission
+Hi Team,
 
-Hi Nubra Team,
-
-I explored Nubra (nubra.io) and built a working demo that helps traders simulate a multi‑monitor workspace in the browser. This submission includes:
-- UI/UX suggestions specific to Nubra’s website & terminal
+I built a working demo that helps traders simulate a multi‑monitor workspace in the browser. This submission includes:
+- UI/UX suggestions specific to Trading website & terminal
 - A concise competitor analysis (backtesting and algo platforms)
 - A bridge feature proposal to help manual traders adopt algorithmic trading
 - Wireframes and flows for the proposed feature and the multi‑screen workspace
@@ -14,14 +12,14 @@ I explored Nubra (nubra.io) and built a working demo that helps traders simulate
 1) Executive Summary
 Manual traders love context density and speed, often using 4–8 physical screens to watch charts, options, scanners, and news. I built a browser‑based “Multi‑Screen Workspace” so traders can compose an 6–8 panel layout (ultrawide + secondary screens), each with an independent chart or data view, and interact with charts directly.
 
-This aligns with Nubra’s “Trade Instantly from Charts” and “Complete Options Suite” positioning by:
+This aligns with Trading’s “Trade Instantly from Charts” and “Complete Options Suite” positioning by:
 - Concentrating critical views together (chart + option chain + scanners + baskets) without tabbing
 - Preserving muscle memory via fixed transforms and deterministic layout
 - Low friction to adopt: no device changes, just a web link
 
 ---
 
-2) UI/UX Suggestions for Nubra
+2) UI/UX Suggestions for Trading
 These are focused, low‑risk improvements that reinforce speed, clarity, and conversion.
 
 A. Home & Onboarding
@@ -50,7 +48,7 @@ D. Performance & Perception
 
 3) Competitor Analysis: Backtesting & Algo Platforms
 
-| Platform | Strengths | Gaps | What Nubra can borrow |
+| Platform | Strengths | Gaps | What Trading can borrow |
 |---|---|---|---|
 | TradingView | Best‑in‑class charting; Pine Script; giant community; backtesting on chart | Limited broker‑neutral live algo; Pinescript onboarding still technical | “Record from chart” + no‑code playbooks; crowd templates |
 | Zerodha Streak | No‑code strategies; easy deploy to broker | Limited indicator breadth vs TV; India‑focused | Simple, opinionated strategy wizard + broker‑native deploy |
@@ -59,7 +57,7 @@ D. Performance & Perception
 | Amibroker | Extremely fast backtests; AFL | Desktop only; dated UX | Performance‑first backtesting backend surfaced in modern UI |
 | MT5 | Huge retail base; EAs | Windows‑centric; MQL learning curve | Bridge scripts from recorded actions to MQL‑like low code |
 
-Key takeaway: winning platforms reduce time‑to‑first‑strategy and increase confidence with tight feedback (visual PnL, bar‑by‑bar playback). Nubra can differentiate by blending chart‑first recording with no‑code strategy assembly.
+Key takeaway: winning platforms reduce time‑to‑first‑strategy and increase confidence with tight feedback (visual PnL, bar‑by‑bar playback). Trading can differentiate by blending chart‑first recording with no‑code strategy assembly.
 
 ---
 
@@ -135,7 +133,7 @@ Dependencies: Charting SDK (TV), backtest engine, auth/session, broker APIs.
 ---
 
 8) Closing
-I’m excited about Nubra’s focus on options and speed. This submission shows how we can reduce cognitive load for active traders and make the journey from manual → algo natural and fun.
+I’m excited about Trading’s focus on options and speed. This submission shows how we can reduce cognitive load for active traders and make the journey from manual → algo natural and fun.
 
 Happy to walk through the demo live and iterate on the feature design.
 
