@@ -1,11 +1,10 @@
-Nubra Product Intern — Submission
-
+Trade 
 
 1) Executive Summary
 
 Manual traders love context density and speed, often using 4–8 physical screens to watch charts, options, scanners, and news. I built a browser‑based “Multi‑Screen Workspace” so traders can compose an 6–8 panel layout (ultrawide + secondary screens), each with an independent chart or data view, and interact with charts directly.
 
-This aligns with Nubra’s “Trade Instantly from Charts” and “Complete Options Suite” positioning by:
+This aligns with Trade’s “Trade Instantly from Charts” and “Complete Options Suite” positioning by:
 - Concentrating critical views together (chart + option chain + scanners + baskets) without tabbing
 - Preserving muscle memory via fixed transforms and deterministic layout
 - Low friction to adopt: no device changes, just a web link
@@ -37,7 +36,7 @@ Why it matters:
 
 3) Closing
 
-I’m excited about Nubra’s focus on options and speed. This submission shows how we can reduce cognitive load for active traders and make the journey from manual → algo natural and fun.
+I’m excited about Trade’s focus on options and speed. This submission shows how we can reduce cognitive load for active traders and make the journey from manual → algo natural and fun.
 
 Happy to walk through the demo live and iterate on the feature design.
 
