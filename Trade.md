@@ -133,7 +133,7 @@ Dependencies: Charting SDK (TV), backtest engine, auth/session, broker APIs.
 ---
 
 8) Closing
-I’m excited about Trading’s focus on options and speed. This submission shows how we can reduce cognitive load for active traders and make the journey from manual → algo natural and fun.
+I’m excited about Trading’s focus on options and speed. This shows how we can reduce cognitive load for active traders and make the journey from manual → algo natural and fun.
 
 Happy to walk through the demo live and iterate on the feature design.
 
